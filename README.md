@@ -15,7 +15,7 @@ To use these custom validation messages in your Pterodactyl Panel project:
 1. Clone this repository to your local environment:
 
    ```bash
-   git clone https://github.com/LarsTemming/pterodactyl-nl.git
+   git clone https://github.com/LarsTemming/pterodactyl-nl.git /var/www/pterodactyl/resources/lang
    ```
    Copy the resources/lang/nl/validation.php file from this repository into your Pterodactyl Panel project's language directory.
 
