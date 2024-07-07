@@ -2,7 +2,7 @@
 
 # Pterodactyl Custom Validation Language Lines
 
-This repository contains custom validation language lines for Pterodactyl Panel `1.11.7` translated into Dutch.
+This repository contains custom validation language lines for Pterodactyl Panel translated into Dutch.
 
 ## Introduction
 
